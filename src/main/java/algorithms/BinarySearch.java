@@ -1,3 +1,5 @@
+package algorithms;
+
 import groovy.ui.SystemOutputInterceptor;
 import org.apache.velocity.context.InternalContextAdapter;
 
