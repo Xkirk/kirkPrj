@@ -9,7 +9,7 @@ import java.util.Random;
 /**
  * Created by kirk on 2017/2/19.
  */
-public class Half {
+public class BinarySearch {
     public static void main(String args[]) {
         Random x = new Random();
        int xxx = x.nextInt(3);
